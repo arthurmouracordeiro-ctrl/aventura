@@ -1,6 +1,9 @@
 body{
     background-color: blue;
     color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center
 }
     .img01{
         width:95%;
