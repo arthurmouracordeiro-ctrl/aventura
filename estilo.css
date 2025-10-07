@@ -3,8 +3,17 @@ body{
     color: white;
     display:flex;
     justify-content: center;
-    align-items: center
+    align-items: center;
+
 }
+main{
+}
+button{
+    background-color: azure;
+    color:antiquewhite;
+    padding:20px;
+
+}  
     .img01{
         width:95%;
     
